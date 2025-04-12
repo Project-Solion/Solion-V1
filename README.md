@@ -15,4 +15,7 @@ All issues should be reported to the Cheat Developers.
 ## ⚠️ CONSEQUENCES
 
 - Immediate termination of access and blacklisting.
--
+- Permanent ban from all future releases and services.
+
+By using this software, you agree to all terms and conditions.  
+All activities are logged for security and compliance purposes.
